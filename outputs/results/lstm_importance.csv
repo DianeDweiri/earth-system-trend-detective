@@ -1,0 +1,13 @@
+horizon_months,variable,rmse_increase_ndvi
+1,NDVI (past),0.00191
+1,Temperature,0.0
+1,Precipitation,0.00127
+1,Humidity,0.00011
+3,NDVI (past),7e-05
+3,Temperature,0.00089
+3,Precipitation,0.00084
+3,Humidity,0.00015
+6,NDVI (past),-0.0003
+6,Temperature,0.00054
+6,Precipitation,0.00025
+6,Humidity,-0.00069

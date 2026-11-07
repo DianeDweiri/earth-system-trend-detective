@@ -1,0 +1,13 @@
+horizon_months,model,rmse_ndvi,mae_ndvi,skill_vs_climatology,skill_vs_persistence,above_below_normal_accuracy
+1,climatology (zero),0.00873,0.00621,0.0,-0.783,
+1,persistence,0.00489,0.00351,0.439,0.0,0.8
+1,ridge,0.00451,0.00332,0.483,0.079,0.75
+1,LSTM,0.00518,0.00359,0.407,-0.058,0.783
+3,climatology (zero),0.00873,0.00621,0.0,-0.053,
+3,persistence,0.00829,0.00607,0.05,0.0,0.767
+3,ridge,0.00806,0.00595,0.076,0.027,0.75
+3,LSTM,0.00687,0.00488,0.213,0.171,0.717
+6,climatology (zero),0.00873,0.00621,0.0,0.094,
+6,persistence,0.00964,0.00773,-0.104,0.0,0.717
+6,ridge,0.00871,0.00655,0.002,0.096,0.733
+6,LSTM,0.00848,0.00629,0.028,0.12,0.683
